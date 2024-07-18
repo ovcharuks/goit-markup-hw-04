@@ -203,7 +203,9 @@ img {
   padding: 120px 0;
 }
 
-.section-second-container {}
+.section-second-container {
+
+}
 
 .visually-hidden {
   clip: rect(0 0 0 0);
@@ -234,6 +236,7 @@ img {
   display: flex;
   justify-content: center;
   align-items: center;
+  margin-bottom: 8px;
 
 }
 
