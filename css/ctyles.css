@@ -322,7 +322,9 @@ img {
   color: #434455;
 }
 
-
+.section-third-list-icon-item{
+  
+}
 
 .section-third-list-icon {
   margin-top: 8px;
@@ -332,6 +334,9 @@ img {
   width: 100%;
 
 }
+
+
+
 
 .section-third-box-icon {
   width: 40px;
