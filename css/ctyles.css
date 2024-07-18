@@ -353,6 +353,11 @@ img {
   align-items: center;
 }
 
+.section-third-link:hover,
+.section-third-link:focus{
+  background-color: #31d0aa;
+}
+
 .soc-icons {
   fill: #f4f4fd;
 }
@@ -474,7 +479,12 @@ padding: 40px 32px;
 .container-footer {
   display: flex;
   align-items: baseline;
+ 
+}
+
+.footer-container-logo {
   margin-right: 120px;
+  margin-left: 156px;
 }
 
 .footer-logo {
