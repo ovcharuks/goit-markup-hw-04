@@ -355,7 +355,7 @@ img {
 
 .section-third-link:hover,
 .section-third-link:focus{
-  background-color: #31d0aa;
+  background-color: #404bbf;
 }
 
 .soc-icons {
@@ -519,4 +519,10 @@ padding: 40px 32px;
   color: #fff;
   margin-bottom: 16px;
   font-weight: 500;
+}
+
+
+.footer-box-soc .section-third-link:hover,
+.footer-box-soc .section-third-link:focus{
+  background-color: #31d0aa;
 }
