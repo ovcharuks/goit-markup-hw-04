@@ -338,16 +338,16 @@ img {
 }
 
 
-.section-third-box-icon {
+/* .section-third-box-icon {
   width: 40px;
   height: 40px;
-}
+} */
 
 .section-third-link {
   display: flex;
   background-color: #4d5ae5;
-  width: 100%;
-  height: 100%;
+  width: 40px;
+  height: 40px;
   border-radius: 50%;
   justify-content: center;
   align-items: center;
